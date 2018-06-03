@@ -13,10 +13,10 @@ type: page
 
 ## content
 
-* email：karlpan@foxmail.com
+* [email](karlpan@foxmail.com)
 * [Twitter](https://twitter.com/karlpan)
 
-## link
+## links
 
 [OpenWiki](http://open.wiki) \| [TimeLineFX](http://www.timelinefx.com/)
 
