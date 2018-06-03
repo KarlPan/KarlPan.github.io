@@ -7,23 +7,23 @@
 
 # Site settings
 title: KarlPan Rnd blog
-brief-intro: Android and Python Coder
+brief-intro: Render Tips
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://karlpan.github.io" # the base hostname & protocol for your site
 
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 
 # other links
 twitter_username: #karlpan
 facebook_username: #karlpan
-github_username:  karlpan
+github_username:
 email: karlpan@foxmail.com
-weibo_username: karlpan
-zhihu_username: karlpan
-linkedIn_username: karlpan
+weibo_username:
+zhihu_username:
+linkedIn_username:
 dribbble_username:
 
-description_footer: from karlpan.com!
+description_footer:karlpan.com©
 
 # comments
 # two ways to comment, only choose one, and use your own short name
