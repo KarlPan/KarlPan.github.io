@@ -13,7 +13,7 @@ type: page
 
 ## content
 
-* [email](karlpan@foxmail.com)
+* [E-mail](karlpan@foxmail.com)
 * [Twitter](https://twitter.com/karlpan)
 
 ## links
